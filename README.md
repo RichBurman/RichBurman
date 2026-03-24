@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RichBurman/RichBurman/main/GitHubBannner.png" />
+  <img src="https://raw.githubusercontent.com/RichBurman/RichBurman/main/GitHubBanner.png" />
 </p>
 
 <h2 align="center">Frontend Developer | Angular Specialist</h2>
